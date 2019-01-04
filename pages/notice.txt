@@ -1,0 +1,7 @@
+Dans C:\wamp\www\www.socitech.ci\sites\default\files\banner se trouve le image de slide
+
+Les href menu sont dans le dossier content
+
+demo_socitech/sites/default/files/images/logo.png contient le logo ligne 282
+
+demo_socitech/sites/default/files/flash/carte2.swf contient le flash   ligne 906
